@@ -1,0 +1,4 @@
+venv
+cache
+embeddings.pkl
+faiss_index.bin
